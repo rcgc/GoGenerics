@@ -1,1 +1,2 @@
 # GoGenerics
+Source files from the course: [Generics in Go](https://www.linkedin.com/learning/generics-in-go) taught by [Anna-Katharina Wickert](https://www.linkedin.com/learning/instructors/anna-katharina-wickert?u=76737724).
